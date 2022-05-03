@@ -1,3 +1,6 @@
+## 博主开发的其他租房或房屋交易项目全部在这里
+**[https://liuyanzhao.com/shop.html?k=房屋](https://liuyanzhao.com/shop.html?k=房屋)**  
+- -------------------------------------------------------------------------------
 - 2022 基于SpringBoot/SSM的最新最轻量级最漂亮的的二手房交易系统 rentup
 - 预览地址：[http://rentup.liuyanzhao.com](http://rentup.liuyanzhao.com)
 - 详细介绍地址：[https://liuyanzhao.com/shop/rentup.html](https://liuyanzhao.com/shop/rentup.html)
